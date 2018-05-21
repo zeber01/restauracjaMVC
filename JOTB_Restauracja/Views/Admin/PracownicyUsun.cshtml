@@ -1,0 +1,65 @@
+﻿@model JOTB_Restauracja.Models.PracownikModel
+
+@{
+    ViewBag.Title = "PracownicyUsun";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Usuwanie pracownika</h2>
+
+<h3>Czy jesteś pewny/a, że chcesz usunąć tego pracownika?</h3>
+<div>
+    <h4>PracownikModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nazwisko)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nazwisko)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Imie)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Imie)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PESEL)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PESEL)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Stanowisko)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Stanowisko)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Wynagrodzenie)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Wynagrodzenie)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Powrót do listy pracowników", "PracownicyLista")
+        </div>
+    }
+</div>

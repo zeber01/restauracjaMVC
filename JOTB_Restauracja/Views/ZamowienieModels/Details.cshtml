@@ -1,0 +1,76 @@
+﻿@model JOTB_Restauracja.Models.ZamowienieModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>ZamowienieModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.data)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.data)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Zrealizowane)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Zrealizowane)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.idKlienta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.idKlienta)
+        </dd>
+
+    </dl>
+</div>
+
+<table class="table">
+    <tr>
+        <th>
+            Nazwa Dania
+        </th>
+        <th>
+            Cena
+        </th>
+        <th>
+            Ilość
+        </th>
+        <th></th>
+    </tr>
+
+    @for (int i = 0; i < ((List<JOTB_Restauracja.Models.DaniaModel>)ViewBag.nazwy).Count(); i++)
+    {
+        <tr>
+            <td>
+                @ViewBag.nazwy[i].Nazwa
+            </td>
+            <td>
+                @ViewBag.nazwy[i].Cena
+
+            </td>
+            <td>
+                @ViewBag.dania[i].Ilosc
+            </td>
+
+        </tr>
+    }
+
+</table>
+<b>KOSZT OGÓŁEM @ViewBag.cena</b>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

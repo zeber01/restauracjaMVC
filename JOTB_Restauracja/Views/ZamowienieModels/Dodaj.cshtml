@@ -1,0 +1,110 @@
+﻿@using JOTB_Restauracja.Models
+@model List<ZamowieniePomModel>
+
+@{
+    ViewBag.Title = "Dodaj";
+}
+
+
+<h2>Dodaj</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>ZamowienieDanieModel</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+
+
+        <table class="table">
+
+            <tr>
+                <th>
+                    &nbsp;
+                </th>
+                <th>
+                    Nazwa dania
+                </th>
+                <th>
+                    Ilość
+                </th>
+                <th></th>
+            </tr>
+
+
+            @for (var index = 0; index < Model.Count; index++)
+            {
+                <tr>
+
+                    <td>
+                        @Html.DropDownListFor(m => Model[index].czyZaznaczone, new SelectListItem[] {
+                        new SelectListItem{ Value = Model[index].czyZaznaczone ,Text = "NIE",Selected =  Model[index].czyZaznaczone == "N"},
+
+                        new SelectListItem{ Value = Model[index].czyZaznaczone, Text = "TAK" ,Selected = Model[index].czyZaznaczone == "T"}
+                        })
+                    </td>
+
+                    <td>
+                        @Model[index].NazwaDania
+
+                    </td>
+
+                    <td>
+                        @Html.EditorFor(m => Model[index].Ilosc, new { htmlAttributes = new { @min = 0 } })
+                    </td>
+                </tr>
+
+
+            }
+        </table>
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Zamów" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/Scripts/jquery-1.10.2.min.js")
+
+    <script type="text/javascript">
+        function disableNumber(id)
+        {
+            $('input[name="' + id + '.Ilosc"]').prop("disabled", true);
+        }
+
+        function enableNumber(id)
+        {
+            $('input[name="' + id + '.Ilosc"]').prop("disabled", false);
+        }
+
+        function onChangeDDL(ddl)
+        {
+            var id = $(ddl).attr("name").split(".");
+            if ($(ddl).find(":selected").text() === "NIE")
+                disableNumber(id[0]);
+            else
+                enableNumber(id[0]);
+        }
+        $(function () {
+            var allDDList = $('select');
+            var allInputNumber = $('input[type="number"]');
+
+            allInputNumber.attr("disabled", "disabled");
+            allDDList.change(function () {
+                onChangeDDL(this);
+            });
+        });
+    </script>
+}
+

@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Restauracja</h1>
+    <p> Coraz częściej na miejsce spotkań biznesowych, konferencji czy szkoleń wybierane są restauracje zapewniające swobodę rozmowy z dyskrecją oraz przyjemność płynąca ze smaków   i aromatów dobrej kuchni. W restauracji potrzeby biznesu spotykają się ze zrozumieniem.</p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>O nas</h2>
+        <p> Nasz cel był od początku jeden : stworzyć miejsce z klimatem i pasją, gdzie Klient może oderwać się od codzienności. Wstępując w progi restauracji uderza nas nowoczesny i elegancki wystrój wnętrza.</p>
+        <img src="~/Image/kucharz.jpg" height="400px"/>
+        <p><a class="btn btn-default" href="">O nas &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Menu</h2>
+        Serwujemy dania które rozpalają zmysły i zachęcają do podróży po raju kulinarnych rozkoszy, odważnie łącząc elementy tradycyjnych smaków z nowoczesnym przygotowaniem i podaniem. </p>
+        
+        <img src="~/Image/wrap.jpg" />
+        
+        @Html.ActionLink("Menu >>", "Index","DaniaModels", null, new { @class = "btn btn-default" })
+    </div>
+   
+    <div class="col-md-4">
+        <h2>Rezerwacja</h2>
+        <p></p>
+        <p><a class="btn btn-default" href="">Rezerwacaja &raquo;</a></p>
+    </div>
+</div>

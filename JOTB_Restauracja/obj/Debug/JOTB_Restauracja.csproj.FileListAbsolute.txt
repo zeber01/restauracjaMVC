@@ -1,0 +1,400 @@
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\ApplicationInsights.config
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\roslyn\csc.exe
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\roslyn\vbc.exe
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\roslyn\VBCSCompiler.exe
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\JOTB_Restauracja.dll.config
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\JOTB_Restauracja.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\JOTB_Restauracja.pdb
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Antlr3.Runtime.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\EntityFramework.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\EntityFramework.SqlServer.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.AI.Web.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.Owin.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.Owin.Security.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Newtonsoft.Json.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Owin.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\System.Web.Helpers.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\System.Web.Mvc.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\System.Web.Optimization.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\System.Web.Razor.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\System.Web.WebPages.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\System.Web.WebPages.Razor.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\WebGrease.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.AI.Web.xml
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\System.Web.Helpers.xml
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\System.Web.Mvc.xml
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\System.Web.Optimization.xml
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\System.Web.Razor.xml
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\System.Web.WebPages.xml
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\System.Web.WebPages.Razor.xml
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Antlr3.Runtime.pdb
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Newtonsoft.Json.xml
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\EntityFramework.xml
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\EntityFramework.SqlServer.xml
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.Owin.xml
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.Owin.Security.xml
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.Migrations.InicjalizacjaTabel.resources
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.csproj.GenerateResource.Cache
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.pdb
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\bin\EDIdEv.FrameworkEDI.NET.dll
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\jotbrestauracja-restauracja-cf05f5e90bac (1)\jotbrestauracja-restauracja-cf05f5e90bac\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.Migrations.JOTB.resources
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.pdb
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.Migrations.InicjalizacjaTabel.resources
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.csproj.GenerateResource.Cache
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\ApplicationInsights.config
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\roslyn\csc.exe
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\roslyn\vbc.exe
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\roslyn\VBCSCompiler.exe
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\JOTB_Restauracja.dll.config
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\JOTB_Restauracja.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\JOTB_Restauracja.pdb
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Antlr3.Runtime.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\EntityFramework.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\EntityFramework.SqlServer.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.AI.Web.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.Owin.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.Owin.Security.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Newtonsoft.Json.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Owin.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\System.Web.Helpers.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\System.Web.Mvc.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\System.Web.Optimization.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\System.Web.Razor.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\System.Web.WebPages.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\System.Web.WebPages.Razor.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\WebGrease.dll
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.AI.Web.xml
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\System.Web.Helpers.xml
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\System.Web.Mvc.xml
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\System.Web.Optimization.xml
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\System.Web.Razor.xml
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\System.Web.WebPages.xml
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\System.Web.WebPages.Razor.xml
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Antlr3.Runtime.pdb
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Newtonsoft.Json.xml
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\EntityFramework.xml
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\EntityFramework.SqlServer.xml
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.Owin.xml
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.Owin.Security.xml
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.Migrations.zamowienia1.resources
+C:\Users\Damian\Desktop\JOTB2\restauracja\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.Migrations.dodanie_ilosci_do_produktu.resources
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\ApplicationInsights.config
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\JOTB_Restauracja.dll.config
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\JOTB_Restauracja.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\JOTB_Restauracja.pdb
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Antlr3.Runtime.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\EntityFramework.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AI.Web.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.ApplicationInsights.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Security.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Owin.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\System.Web.Helpers.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\System.Web.Mvc.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\System.Web.Optimization.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\System.Web.Razor.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\System.Web.WebPages.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\WebGrease.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AI.Web.xml
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.ApplicationInsights.xml
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\System.Web.Mvc.xml
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\System.Web.Optimization.xml
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\System.Web.WebPages.xml
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\EntityFramework.xml
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.xml
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Security.xml
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.Migrations.InicjalizacjaTabel.resources
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.Migrations.zamowienia1.resources
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.Migrations.dodanie_ilosci_do_produktu.resources
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.dll
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.pdb
+C:\Users\admin\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.csprojResolveAssemblyReference.cache
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\ApplicationInsights.config
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\roslyn\csc.exe
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\roslyn\vbc.exe
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\roslyn\VBCSCompiler.exe
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\JOTB_Restauracja.dll.config
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\JOTB_Restauracja.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\JOTB_Restauracja.pdb
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Antlr3.Runtime.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\EntityFramework.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\EntityFramework.SqlServer.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AI.Web.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Security.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Newtonsoft.Json.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Owin.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\System.Web.Helpers.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\System.Web.Mvc.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\System.Web.Optimization.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\System.Web.Razor.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\System.Web.WebPages.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\System.Web.WebPages.Razor.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\WebGrease.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\EntityFramework.xml
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\EntityFramework.SqlServer.xml
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AI.Web.xml
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\System.Web.Helpers.xml
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\System.Web.Mvc.xml
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\System.Web.Optimization.xml
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\System.Web.Razor.xml
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\System.Web.WebPages.xml
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\System.Web.WebPages.Razor.xml
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Antlr3.Runtime.pdb
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Newtonsoft.Json.xml
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.xml
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Security.xml
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.csprojResolveAssemblyReference.cache
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.Migrations.InicjalizacjaTabel.resources
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.Migrations.zamowienia1.resources
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.Migrations.dodanie_ilosci_do_produktu.resources
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.csproj.GenerateResource.Cache
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.dll
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.pdb
+C:\Users\Confuser\Desktop\jotbrestauracja-restauracja-f92269445bf0\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.Migrations.asdw.resources
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.Migrations.InicjalizacjaTabel.resources
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.Migrations.zamowienia1.resources
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.Migrations.dodanie_ilosci_do_produktu.resources
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.Migrations.asdw.resources
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.csproj.GenerateResource.Cache
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.dll
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\obj\Debug\JOTB_Restauracja.pdb
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\ApplicationInsights.config
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\roslyn\csc.exe
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\roslyn\vbc.exe
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\roslyn\VBCSCompiler.exe
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\JOTB_Restauracja.dll.config
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\JOTB_Restauracja.dll
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\JOTB_Restauracja.pdb
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\EntityFramework.xml
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\EntityFramework.SqlServer.xml
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\Microsoft.AI.Web.xml
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\System.Web.Helpers.xml
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\System.Web.Mvc.xml
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\System.Web.Optimization.xml
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\System.Web.Razor.xml
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\System.Web.WebPages.xml
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\System.Web.WebPages.Razor.xml
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\Antlr3.Runtime.pdb
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\zxing.pdb
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\zxing.xml
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\Newtonsoft.Json.xml
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\Microsoft.Owin.xml
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\Microsoft.Owin.Security.xml
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Damian\Desktop\JOTB3\restauracja\JOTB_Restauracja\bin\Microsoft.Owin.Security.MicrosoftAccount.xml

@@ -1,0 +1,46 @@
+﻿@model IEnumerable<JOTB_Restauracja.Models.ProduktyModel>
+
+@{
+    ViewBag.Title = "Magazyn";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Zapasy</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nazwa</th>
+            <th>Jednostka</th>
+            <th>Cena/Jednostka</th>
+            <th>Ilość</th>
+            <th>&nbsp;</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            string klasa = "";
+            if (item.Ilosc > 10 && item.Ilosc <= 20)
+            {
+                klasa = "class=warning";
+            }
+            else if (item.Ilosc <= 10)
+            {
+                klasa = "class=danger";
+            }
+            else
+            {
+                klasa = "";
+            }
+
+            <tr @klasa>
+                <td>@item.Nazwa</td>
+                <td>@item.Jednostka</td>
+                <td>@item.Koszt</td>
+                <td>@item.Ilosc</td>
+                <td>@Html.ActionLink("Usuń", "ProduktyUsun", new { id = item.ID })</td>
+            </tr>
+        }
+    </tbody>
+</table>

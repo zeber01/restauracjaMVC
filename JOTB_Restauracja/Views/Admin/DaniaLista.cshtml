@@ -1,0 +1,30 @@
+﻿@model IEnumerable<JOTB_Restauracja.Models.DaniaModel>
+
+@{
+    ViewBag.Title = "Karta dań";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Karta dań</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nazwa</th>
+            <th>Kategoria</th>
+            <th>Cena</th>
+            <th>&nbsp;</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Nazwa</td>
+                <td>@item.Kategoria</td>
+                <td>@item.Cena</td>
+                <td>@Html.ActionLink("Usuń", "DaniaUsun", new { id = item.ID })</td>
+            </tr>
+        }
+    </tbody>
+</table>

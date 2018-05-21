@@ -1,0 +1,49 @@
+﻿@model JOTB_Restauracja.Models.DaniaModel
+
+@{
+    ViewBag.Title = "Wykreślanie z karty dań";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Wykreślanie z Karty Dań</h2>
+
+<h3>Czy na pewno chcesz wykreślić to danie z Karty Dań?</h3>
+<div>
+    <h4>Informacje o daniu:</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nazwa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nazwa)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cena)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cena)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Kategoria)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Kategoria)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Wykreśl" class="btn btn-default" /> |
+            @Html.ActionLink("Powrót do Karty Dań", "DaniaLista")
+        </div>
+    }
+</div>

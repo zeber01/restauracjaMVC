@@ -1,0 +1,35 @@
+﻿@model IEnumerable<JOTB_Restauracja.Models.PracownikModel>
+
+@{
+    ViewBag.Title = "PracownicyLista";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Lista pracowników</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nazwisko</th>
+            <th>Imie</th>
+            <th>PESEL</th>
+            <th>Stanowisko</th>
+            <th>Pensja</th>
+            <th>&nbsp;</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.Nazwisko</td>
+                <td>@item.Imie</td>
+                <td>@item.PESEL</td>
+                <td>@item.Stanowisko</td>
+                <td>@item.Wynagrodzenie</td>
+                <td>@Html.ActionLink("Zwolnij", "PracownicyUsun", new { id = item.ID })</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

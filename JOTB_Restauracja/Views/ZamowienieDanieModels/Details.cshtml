@@ -1,0 +1,42 @@
+﻿@model JOTB_Restauracja.Models.ZamowienieDanieModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>ZamowienieDanieModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Danie.Nazwa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Danie.Nazwa)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Zamowienie.ID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Zamowienie.ID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Ilosc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ilosc)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

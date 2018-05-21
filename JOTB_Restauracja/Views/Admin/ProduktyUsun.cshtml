@@ -1,0 +1,57 @@
+﻿@model JOTB_Restauracja.Models.ProduktyModel
+
+@{
+    ViewBag.Title = "Usuwanie produktu";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Usuwanie produktu z magazynu</h2>
+
+<h3>Czy na pewno chcesz usunąć produkt z magazynu?</h3>
+<div>
+    <h4>Inormacje o produkcie:</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nazwa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nazwa)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Ilosc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ilosc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Jednostka)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Jednostka)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Koszt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Koszt)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Usuń" class="btn btn-default" /> |
+            @Html.ActionLink("Powrót do stanu magazynu", "ProduktyLista")
+        </div>
+    }
+</div>

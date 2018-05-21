@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewBag.Title = "Panel Administracyjny";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Panel administracyjny</h2>
+
+<div class="row">
+    <div class="col-md-4">
+        <ul class="list-group">
+            <li class="list-group-item"><strong>Pracownicy</strong></li>
+            <li class="list-group-item"><a href="/Admin/PracownicyLista">Lista</a></li>
+            <li class="list-group-item"><a href="/Admin/PracownicyDodaj">Dodaj</a></li>
+        </ul>
+    </div>
+
+    <div class="col-md-4">
+        <ul class="list-group">
+            <li class="list-group-item"><strong>Magazyn</strong></li>
+            <li class="list-group-item"><a href="/Admin/ProduktyLista">Stan</a></li>
+            <li class="list-group-item"><a href="/Admin/ProduktyDodaj">Dodaj nowy produkt</a></li>
+            <li class="list-group-item"><a href="#">Dodaj nową dostawę</a></li>
+        </ul>
+    </div>
+
+    <div class="col-md-4">
+        <ul class="list-group">
+            <li class="list-group-item"><strong>Menu</strong></li>
+            <li class="list-group-item"><a href="/Admin/DaniaLista">Lista dań</a></li>
+            <li class="list-group-item"><a href="/Admin/DaniaDodaj">Dodaj nowe danie</a></li>
+        </ul>
+    </div>
+</div>

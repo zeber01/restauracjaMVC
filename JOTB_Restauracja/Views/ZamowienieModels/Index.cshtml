@@ -1,0 +1,50 @@
+﻿@model IEnumerable<JOTB_Restauracja.Models.ZamowienieModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Złożone zamówienia</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            Data złożenia
+        </th>
+        <th>
+            Status zamówienia
+        </th>
+        <th>
+            Identyfikator klienta
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.data)
+            </td>
+            <td>
+                @if (item.Zrealizowane)
+                {
+                    <span style="font-weight: bold;">Zrealizowane</span>
+                }
+                else
+                {
+                    <span>Oczekujące</span>
+                }
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.idKlienta)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+            </td>
+        </tr>
+    }
+
+</table>

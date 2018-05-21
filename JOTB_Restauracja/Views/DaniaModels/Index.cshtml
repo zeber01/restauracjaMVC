@@ -1,0 +1,44 @@
+﻿@model IEnumerable<JOTB_Restauracja.Models.DaniaModel>
+@using JOTB_Restauracja.Helpers
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Menu</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nazwa)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cena)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Kategoria)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nazwa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cena)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Kategoria)
+            </td>
+            <td>
+                @Html.GenerateQrCode(item.Nazwa + " " + item.Cena)
+            </td>
+
+        </tr>
+    }
+
+</table>
